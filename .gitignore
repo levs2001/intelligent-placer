@@ -1,2 +1,4 @@
 *.idea*
 *DS_Store*
+dataset/__pycache__/
+intelligent_placer_lib/__pycache__/
